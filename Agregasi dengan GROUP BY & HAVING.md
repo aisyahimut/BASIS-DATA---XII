@@ -6,7 +6,7 @@
 desc pegawai;
 ~~~
 **Hasilnya :
-![](assets/tugaskedua.png)
+![](assets/basdat.png)
 
 **Kesimpulan :**
 
@@ -21,7 +21,7 @@ select * from pegawai;
 ~~~
 
 **Hasil :**
-![](assets/tugaskedua1.png)
+![](assets/basdat2.png)
 
 **Kesimpulan :**
 Perintah `SELECT * FROM pegawai;` berguna untuk melihat seluruh data dalam tabel `pegawai` tanpa batasan atau filter. Ini adalah cara cepat untuk mendapatkan gambaran lengkap tentang data yang ada di tabel, tetapi untuk analisis yang lebih spesifik atau untuk meningkatkan performa query, sebaiknya Anda memilih kolom tertentu dan menerapkan kondisi yang sesuai.
